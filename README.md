@@ -14,4 +14,4 @@ Front/Back end support: I will be using Android Studio for the front and backend
 Functionality: User's will enter the information that the application is asking for and it will give the user the daily caloric range for each goal, depending on which goal you are wanting to accomplish. 
 
 
-Design (wireframes)
+Design (wireframes) 
