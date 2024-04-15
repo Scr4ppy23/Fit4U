@@ -14,4 +14,13 @@ Front/Back end support: I will be using Android Studio for the front and backend
 Functionality: User's will enter the information that the application is asking for and it will give the user the daily caloric range for each goal, depending on which goal you are wanting to accomplish. 
 
 
-Design (wireframes) : To design my wireframes, I handdrawn it first then I used Justinmind to create a wireframe online to get a better visual to see how my app will possibly look with the creation of my designs. 
+
+
+
+Design (wireframes) : To design my wireframes, I hand drawn it first then I used Justinmind to create a wireframe online to get a better visual to see how my app will possibly look with the creation of my designs. 
+
+
+#Update 
+
+I've completed 3 of my screens with the completion of my Welcome screen for my FIT4U application.  I completed the screen for the user to have the opportunity to enter their information. I'm still working on ensuring the application retrieves the information the user inputted. My third screen is the screen the user will choose the activity level they believe that is mostly the activity level on the day to day basis. I will work on next to ensure the application is able to calculate the information the end user inputs to the desired results of the calories they need to eat to achieve their fitness goals,
+
